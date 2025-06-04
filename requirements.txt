@@ -1,6 +1,0 @@
-seleniumbase
-pytest~=8.3.5
-pytest-html
-pyyaml~=6.0.2
-
-webdriver-manager~=4.0.2
